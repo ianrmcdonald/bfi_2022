@@ -3,7 +3,7 @@ Content from the BFI 2022 Greatest Films of All Time survey
 
 Main csv file: BFI_2022_film_selections.csv.  This file contains a record for each selection of each voter.  Typically, voters choose 10 films, but some chose fewer.  The file contains 21,085 records, representing votes for 2,115 voters (1,635 critics and 480 directors).
 
-The Excel workbook https://github.com/ianrmcdonald/bfi_2022/blob/main/wave_regions.xlsx contains rank ordered vote totals by region.
+The Excel workbook <file> contains rank ordered vote totals by region.
 
 You can download one of the files from this list: <repository>.  Select the file above, right click the "RAW" button at the top of the file, select Save Link As… , choose the location on your computer where you want to save the file, and select Save .
 
