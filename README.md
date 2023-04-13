@@ -10,14 +10,14 @@ You can download one of the files from this list: <repository>.  Right click on 
 
 Variables (columns) in BFI_2022_film_selections.csv are:
 
-selection:        Film chosen on voter ballot.\n
-director:         Director of film chosen.\n
-year_rev:         Year of film.  When year conflicts occur, I generally set to iMDB year.\n
-voter:            Name of voter\n
-voter_url:        URL where voter selections can be found.\n
-voter_role:       Voter role as displayed on the individual web page\n
+selection:        Film chosen on voter ballot.<br>
+director:         Director of film chosen.<br>
+year_rev:         Year of film.  When year conflicts occur, I generally set to iMDB year.<br>
+voter:            Name of voter<br>
+voter_url:        URL where voter selections can be found.<br>
+voter_role:       Voter role as displayed on the individual web page<br>
 voter_critic_
-  or_director     Each voter is designated as a critic or director, appearing in this field\n
-voter_country     Country based on value shown on the individual website. \n 
+  or_director     Each voter is designated as a critic or director, appearing in this field <br>
+voter_country     Country based on value shown on the individual website. <br>
 
 See https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time for the top 250 critics films and links to other resources
