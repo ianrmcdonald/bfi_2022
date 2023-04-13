@@ -5,7 +5,11 @@ The main data file (in .csv format) is BFI_2022_film_selections.csv.  This file 
 
 The Excel workbook first_wave_regions.xlsx contains rank ordered vote totals by region.
 
-You can download one of the files from this list: <repository>.  Right click on the file link, select "Save Link As…" , choose the location on your computer where you want to save the file, and select Save.
+You can download one of the files from this list shown above.  
+
+-  Click on the file link,<br> 
+-  right click on the "View Raw" link,<br> 
+-  select "Save Link As…" or equivalent, choose the location on your computer where you want to save the file, and save.
 
 
 Variables (columns) in BFI_2022_film_selections.csv are:
