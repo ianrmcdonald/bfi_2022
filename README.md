@@ -5,7 +5,7 @@ Main csv file: BFI_2022_film_selections.csv.  This file contains a record for ea
 
 The Excel workbook https://github.com/ianrmcdonald/bfi_2022/blob/main/wave_regions.xlsx contains rank ordered vote totals by region.
 
-You can download one of the files from this list: <repository>.  Select the file, right click the Raw button at the top of the file, select Save Link As… , choose the location on your computer where you want to save the file, and select Save .
+You can download one of the files from this list: <repository>.  Select the file above, right click the "RAW" button at the top of the file, select Save Link As… , choose the location on your computer where you want to save the file, and select Save .
 
 
 Variables (columns) in BFI_2022_film_selections.csv are:
